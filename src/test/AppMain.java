@@ -6,6 +6,7 @@ public class AppMain {
 		int a=5;
 		
 		System.out.println((char)a);
+		
 	}
 
 }
